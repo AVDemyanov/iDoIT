@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767481892854",
+    "project_id": "idoit-3916f",
+    "storage_bucket": "idoit-3916f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767481892854:android:e446df870ebb1d725141d7",
+        "android_client_info": {
+          "package_name": "ru.avdemyanov.idoit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBegNzh192RORC_6BB3JrKi6UfJQJ5hPck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
