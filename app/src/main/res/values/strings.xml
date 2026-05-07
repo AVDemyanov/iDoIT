@@ -1,18 +1,17 @@
 <resources>
     <string name="app_name">IDoIt</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 
     <!-- Заголовки -->
-    <string name="home_title">Home</string>
-    <string name="notes_title">Заметки</string>
+    <string name="home_title">I Do It</string>
+    <string name="notes_title">Задачи</string>
 
     <!-- Диалог создания заметки -->
-    <string name="note_deleted">"Заметка удалена</string>
-    <string name="dialog_new_note">Новая заметка</string>
+    <string name="note_deleted">"Задача удалена</string>
+    <string name="dialog_new_note">Новая задача</string>
     <string name="dialog_add">Добавить</string>
     <string name="dialog_cancel">Отмена</string>
-    <string name="hint_enter_text">Введите текст заметки...</string>
+    <string name="hint_enter_text">Введите описание задачи...</string>
 
     <!-- Текст для адаптера и элементов -->
     <string name="add_task_hint">Add a task...</string>
