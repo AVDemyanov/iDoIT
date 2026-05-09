@@ -14,5 +14,5 @@
     <string name="hint_enter_text">Введите описание задачи...</string>
 
     <!-- Текст для адаптера и элементов -->
-    <string name="add_task_hint">Add a task...</string>
+    <string name="add_task_hint">Добавить задачу</string>
 </resources>
